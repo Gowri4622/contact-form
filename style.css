@@ -9,7 +9,10 @@
     }
   }
 
- 
+ .form-title{
+  text-align: center;
+  color: #204f72;
+ }
 
   .alert{
     width: 100%;
@@ -31,7 +34,7 @@
   }
 
   form {
-    width: 400px;
+    width: 500px;
     margin: 0 auto;
     background-color: rgba(255, 255, 255, 0.8);
     padding: 20px;
